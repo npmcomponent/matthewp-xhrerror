@@ -1,0 +1,15 @@
+{
+  "name": "matthewp-xhrerror",
+  "description": "Generic Error object for xhr requests.",
+  "version": "0.0.1",
+  "keywords": [
+    "xhr",
+    "xmlhttprequest",
+    "ajax"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "yields-xhr": "git://github.com/npmcomponent/yields-xhr.git"
+  },
+  "license": "MIT"
+}
